@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Discover the innovative Odyssey",
+    "paragraph": "We create beautiful and fast scaling website for you."
+  },
+  "About": {
+    "paragraph": "We are a group of imaginative and hard-working individuals who share a common goal of providing you the best visually appealing website catered to your personal needs. You ask us and we will build it.",
+    "Why": [
+      "Fast & Scalable Website",
+      "Zero Maintenance",
+      "Visually appealing",
+      "Custom Designs"
+    ],
+    "Why2": [
+      "Multi-Platform availability",
+      "Full control over features",
+      "Free future updates/changes",
+      "Free Hosting"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "WordPress",
+      "text": "We provide wordpress-esque features and customization to your website. We provide a very sophisticated tools to visualize how you want your website to view."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-Commerce",
+      "text": "We have an expertise in creating E-Commerce web sites which comes with their own admin page to handle and manage what the customer can see."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Easy-to-Download",
+      "text": "We will upload the whole project on any repository of your choice like Github, Gitlab and Bitbucket or you can download the whole repository to your system of choice."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Multi-Lingual",
+      "text": "English audience not your primary market? We will create a website in the local language of your preference and the best part? You can switch it to English any time."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Internationalization",
+      "text": "Available to people world wide. Along with multi-lingual for local language we offer full internationalization of the web app."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Discrete WebApp",
+      "text": "Only want us to work on a particular piece of project or module? We can create a part of your website should you only require modifications on it."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Working with this freelancer was an absolute pleasure! Their attention to detail and innovative approach in creating our website surpassed our expectations.\"",
+      "name": "Avinash Jha"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"From concept to execution, the team demonstrated unmatched professionalism and expertise.\"",
+      "name": "Tarun Bansal"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Exceptional talent and exceptional results! Our website's design and functionality perfectly reflect our brand identity, thanks to the skill and creativity of this freelancer.\"",
+      "name": "Pratyush Mishra"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The website they developed for us has significantly enhanced our online presence and user engagement. Their commitment to delivering excellence is truly commendable.\"",
+      "name": "Manvee Bansal"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Their ability to understand our vision and translate it into a user-friendly website was impressive. Their expertise in web development shines through in every aspect of their work.\"",
+      "name": "Dev Angiras"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Our app launch was a huge success, all thanks to the expertise and dedication of this freelancer. They went above and beyond to ensure the app's functionality and user experience were top-notch.\"",
+      "name": "Yukta Bhagyashree"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Avinash Jha",
+      "job": "CTO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Manvee Bansal",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Tarun Bansal",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Number 4",
+      "job": "Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Pune, India 411057 ",
+    "phone": "+91 6387 796 299",
+    "email": "avinashbhaskarjha@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customer Service",
+      "text": "We provide excellent customization for your web apps. You Design, We Develop."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Fast & Scalable",
+      "text": "Web apps designed to be fast and easy to expand in future when required."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Our Clientele",
+      "text": "We have a huge number of clients and we carry that experience with us."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "UI & UX",
+      "text": "We design the excellent UI/UX for your website which matches perfectly with your brand."
+    }
+  ]
+}
