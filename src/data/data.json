@@ -1,15 +1,16 @@
 {
   "Header": {
-    "title": "Discover the innovative Odyssey",
-    "paragraph": "We create beautiful and fast scaling website for you."
+    "title": " Your vision, Our Innovation",
+    "paragraph": "Don’t settle for an average website, let’s craft a beautiful one together!"
   },
   "About": {
-    "paragraph": "We are a group of imaginative and hard-working individuals who share a common goal of providing you the best visually appealing website catered to your personal needs. You ask us and we will build it.",
+    "paragraph": "We are more than just a web development company; we are your partners in growth. We are a group of innovators, problem-solvers, and tech enthusiasts who bring a wealth of experience and expertise to every project. Our mission is simple: to empower businesses by creating high-quality, affordable websites that drive growth and efficiency.",
     "Why": [
-      "Fast & Scalable Website",
-      "Zero Maintenance",
-      "Visually appealing",
-      "Custom Designs"
+      "Client-Focused",
+      "Innovative Designs",
+      "Transparent Process",
+      "Quality-Driven",
+      "Affordable Excellence"
     ],
     "Why2": [
       "Multi-Platform availability",
@@ -152,9 +153,9 @@
     }
   ],
   "Contact": {
-    "address": "Pune, India 411057 ",
-    "phone": "+91 6387 796 299",
-    "email": "avinashbhaskarjha@gmail.com",
+    "address": "San Francisco, USA ",
+    "phone": "+1(919) 945-4817 ",
+    "email": "media.tech.inc56@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,8 +163,8 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Customer Service",
-      "text": "We provide excellent customization for your web apps. You Design, We Develop."
+      "title": "Strategic SEO",
+      "text": "On-page and off-page SEO techniques to improve search engine rankings, including keyword research and implementation to attract more organic traffic."
     },
     {
       "icon": "fa fa-bullhorn",
@@ -177,8 +178,8 @@
     },
     {
       "icon": "fa fa-magic",
-      "title": "UI & UX",
-      "text": "We design the excellent UI/UX for your website which matches perfectly with your brand."
+      "title": "Maintenance and Support",
+      "text": "Ongoing support for website updates, bug fixes, and technical issues, including regular backups and security checks to ensure website integrity."
     }
   ]
 }
